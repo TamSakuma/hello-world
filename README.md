@@ -1,3 +1,3 @@
 # hello-world
 
-新しくGitHubに参加しました!
+新しくGitHubに参加しました!2
